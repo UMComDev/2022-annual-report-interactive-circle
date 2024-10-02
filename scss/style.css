@@ -59,19 +59,13 @@ p.sub-text {
   font-display: swap;
 }
 
-// Commented out as potentially unused
-// .modal-body .container {
-//   text-align: revert;
-//   margin: revert;
-// }
-
 .space {
   margin: 100px;
 }
 
- .space-2 {
- margin-bottom: 85px;
- }
+.space-2 {
+  margin-bottom: 85px;
+}
 
 .infograph {
   left: 168px;
@@ -397,7 +391,6 @@ p.sub-text {
 .middle-image-hover {
   top: 0px;
   left: -613px;
-  /*background-color: #00B6C0;*/
   bottom: 0;
   width: 350px;
   height: 350px;
@@ -480,9 +473,6 @@ p.sub-text {
   transition: opacity 0.2s;
 }
 
-
-
-
 .col-8 p {
   font-family: "Helvetica 45 Light", sans-serif;
   font-weight: 200;
@@ -524,7 +514,6 @@ p.sub-text {
     font-family: "Oswald";
     font-weight: 700;
     font-size: 2em;
-    /*line-height: .5em;*/
     color: #141414;
     text-transform: uppercase;
   }
